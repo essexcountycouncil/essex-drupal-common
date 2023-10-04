@@ -1,5 +1,5 @@
 {
-    "name": "ecc_menu/ecc_menu",
+    "name": "essexcountycouncil/ecc_menu",
     "description": "Shared Drupal menu functionality for Essex County Council",
     "type": "drupal-module",
     "homepage": "https://github.com/essexcountycouncil/ecc_menu"
